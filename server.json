@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.localaipicks/localaipicks",
+  "title": "Local AI Picks",
+  "description": "Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.",
+  "version": "1.0.0",
+  "websiteUrl": "https://localaipicks.com/docs/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://localaipicks.com/mcp"
+    }
+  ]
+}
