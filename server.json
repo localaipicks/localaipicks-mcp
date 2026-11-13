@@ -10,5 +10,9 @@
       "type": "streamable-http",
       "url": "https://localaipicks.com/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/localaipicks/localaipicks-mcp",
+    "source": "github"
+  }
 }

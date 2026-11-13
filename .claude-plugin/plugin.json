@@ -1,0 +1,28 @@
+{
+  "name": "localaipicks-mcp",
+  "version": "1.0.0",
+  "description": "Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.",
+  "author": {
+    "name": "Local AI Picks",
+    "url": "https://localaipicks.com"
+  },
+  "homepage": "https://localaipicks.com/docs/mcp",
+  "repository": "https://github.com/localaipicks/localaipicks-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "local-llm",
+    "ollama",
+    "vram",
+    "apple-silicon",
+    "hardware",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json"
+}

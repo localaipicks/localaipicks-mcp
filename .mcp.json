@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "localaipicks": {
+      "type": "http",
+      "url": "https://localaipicks.com/mcp"
+    }
+  }
+}

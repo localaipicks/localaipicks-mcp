@@ -1,0 +1,11 @@
+{
+  "name": "localaipicks-mcp",
+  "version": "1.0.0",
+  "description": "Find open-weight AI models that fit your hardware, with weight sizes, memory and sources.",
+  "mcpServers": {
+    "localaipicks": {
+      "type": "http",
+      "url": "https://localaipicks.com/mcp"
+    }
+  }
+}

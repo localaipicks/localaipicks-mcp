@@ -57,6 +57,15 @@ npx skills add localaipicks/localaipicks-mcp
 
 or copy the folder into your agent's skills directory (for Claude Code, `~/.claude/skills/localaipicks/`).
 
+
+### One-line prompt for any AI agent
+
+Paste into Claude Code, Cursor, Codex, or Gemini CLI:
+
+```text
+Read https://raw.githubusercontent.com/localaipicks/localaipicks-mcp/main/skills/localaipicks/SKILL.md and check which local LLMs and quantizations fit my GPU or Mac memory.
+```
+
 ## Support
 
 support@localaipicks.com
